@@ -25,7 +25,7 @@ class AppTheme {
         fontWeight: FontWeight.bold,
       ),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: _lightColorScheme.surface,
     ),
     floatingActionButtonTheme: FloatingActionButtonThemeData(
@@ -80,7 +80,7 @@ class AppTheme {
         fontWeight: FontWeight.bold,
       ),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: _darkColorScheme.surface,
     ),
     floatingActionButtonTheme: FloatingActionButtonThemeData(
