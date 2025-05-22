@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +44,45 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# MacOS related
+.DS_Store
+
+# Windows related
+Thumbs.db
+
+# Android related
+*.apk
+*.aar
+*.iml
+.local/
+
+# iOS related
+Pods/
+Runner.xcworkspace/
+Generated.xcconfig
+*.xcuserstate
+
+# Others
+*.log
+>>>>>>> ed8f43acee9d9b6d42f43c22993af883c328b2a5
